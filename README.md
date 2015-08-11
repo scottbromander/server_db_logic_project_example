@@ -1,3 +1,5 @@
+twitters - @docix
+
 ## Example Solution from Prime Academy's Repo Shift Challenge 2
 
 Here is a sample solution from the Prime Academy Repo Shift Challenge 2 as completed for the Gamma Cohort. This is a
