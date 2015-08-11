@@ -1,0 +1,19 @@
+.header {
+    color: #efefef;
+    height: 200px;
+    background-color: #262626;
+}
+
+.header p, .header button {
+    margin-left: 100px;
+}
+
+.header p {
+    margin-top: 50px;
+}
+
+.delete {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
